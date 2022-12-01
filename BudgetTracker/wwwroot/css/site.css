@@ -21,7 +21,8 @@ body {
 .homebtn {
     background-color: white;
     height: 300px;
-    width: 310px;
+    width: 320px;
+    border-radius: 1rem;
 }
 
 /*Widget*/
